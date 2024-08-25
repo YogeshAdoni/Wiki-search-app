@@ -1,0 +1,1 @@
+A simple web application built with Python's Flask framework that allows users to search Wikipedia articles and returns a brief summary of the topic. The app uses the Wikipedia API and integrates Bootstrap for a responsive design.
